@@ -1,5 +1,5 @@
 {
-  "name": "Fauzialifatah",
+  "name": "Base-bot",
   "version": "1.0.0",
   "description": "ESM and CJS error? fix sendiri",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "masukin bailyes",
+    "@rexxhayanasi/elaina-bail": "latest",
     "axios": "^1.11.0",
     "cheerio": "^1.1.2",
     "form-data": "^4.0.4",
