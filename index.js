@@ -1,6 +1,6 @@
 import { createRequire } from 'module';
 import qrcode from 'qrcode-terminal';
-import pkg from '@whiskeysockets/baileys';
+import pkg from '@rexxhayanasi/elaina-bail';
 const { makeWASocket, useMultiFileAuthState, DisconnectReason, Browsers } = pkg;
 
 import { Boom } from '@hapi/boom';
