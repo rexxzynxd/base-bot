@@ -157,8 +157,6 @@ untuk mendapatkan:
 **👤 Developer Utama:**  
 > 🧠 **RexxHayanasi**  
 
-**📜 Script Original:**  
-> ✍️ *Fauzialfatah*  
 
 Terima kasih untuk kontribusi dan pengembangan base bot ini 🙌  
 Jika kamu ingin mengembangkan lebih lanjut atau memberikan kredit,  
