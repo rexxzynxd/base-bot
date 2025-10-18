@@ -1,4 +1,6 @@
-# 📁Script Bot WhatsApp By Fauzialifatah 
+# 📁Script Bot WhatsApp By RexxHayanasi
+
+[!](Script asli dimiliki oleh Fauzialfatah)
 
 ### 
 **Update script base bot whatsapp yang sudah cukup support @lid ( Local Identifier ) dan @jid ( Jabber ID ) jika ada kendala dalam script tersebut kamu bisa ngefix sendiri atau tungguh update selanjutnya terimakasih atas penggunaan script base sayamenggunakan bailyes costum atau mood agar lebih stabil, Struktur ini mendukung fleksibilitas dalam menggunakan ESM (import/export) proyek Node.js.**
