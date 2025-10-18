@@ -38,12 +38,11 @@ Bot ini menggunakan **Baileys custom/mod** agar lebih stabil dan fleksibel, sert
     └── scrape/
         ├── deepai-api.js
         └── fluxai-api.js
-
+```
 
 ---
-
 ⚙️ Parameter Plugin Handler
-
+```bash
 const senderJid = msg.key.remoteJid;
 const senderLid = msg.key.chat?.lid; 
 const sender = senderLid || senderJid; 
@@ -52,23 +51,48 @@ const isGroup = senderLid ? true : senderJid.endsWith('@g.us');
 const groupMetadata = isGroup
   ? await sock.groupMetadata(sender).catch(() => ({}))
   : {};
-
+```
 
 ---
 
-🚀 Fitur Utama
+## 🚀 Fitur Utama
 
-✅ Dukungan @lid & @jid
+<details>
+<summary>✅ <b>Dukungan @lid & @jid</b></summary>
 
-🔄 Login via QR Code WhatsApp
+Base bot ini telah mendukung sistem identifikasi ganda menggunakan:
+- **@lid (Local Identifier)** untuk grup atau chat lokal.
+- **@jid (Jabber ID)** untuk user, bot, dan grup global.
 
-⚡ Struktur modular (ESM)
+Meningkatkan fleksibilitas serta kompatibilitas dalam pengelolaan event dan metadata chat.
+</details>
 
-🧱 Plugin system mudah dikembangkan
+<details>
+<summary>🔄 <b>Login via QR Code WhatsApp</b></summary>
 
-💾 Auto generate folder sesi
+Mendukung sistem login modern menggunakan **QR Code** langsung dari terminal.  
+Kamu cukup memindai QR sekali, dan sesi akan tersimpan otomatis di folder `sesi/` agar tidak perlu login ulang.
+</details>
 
+<details>
+<summary>⚡ <b>Struktur Modular (ESM)</b></summary>
 
+Dibangun menggunakan **ECMAScript Module (import/export)** untuk kompatibilitas penuh dengan proyek Node.js modern.  
+Memudahkan pengembangan, pembacaan kode, dan integrasi plugin baru.
+</details>
+
+<details>
+<summary>🧱 <b>Plugin System Mudah Dikembangkan</b></summary>
+
+Struktur plugin yang sederhana dan terpisah dalam folder `plugins/`, sehingga kamu dapat menambahkan, menghapus, atau memodifikasi fitur tanpa mengubah file utama.  
+Cocok untuk pengembang yang ingin memperluas kemampuan bot.
+</details>
+
+<details>
+<summary>💾 <b>Auto Generate Folder Sesi</b></summary>
+
+Folder `sesi/` akan otomatis dibuat oleh **Baileys**, menyimpan data koneksi dan sesi agar login tetap bertahan meskipun bot direstart.
+</details>
 
 ---
 
