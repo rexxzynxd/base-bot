@@ -75,6 +75,13 @@ Kamu cukup memindai QR sekali, dan sesi akan tersimpan otomatis di folder `sesi/
 </details>
 
 <details>
+<summary>🎉 <b>Login via Code pair WhatsApp</b></summary>
+
+Mendukung sistem login modern menggunakan **Pairing Code** langsung dari terminal.  
+Kamu cukup memasukan nomer bot dan mengisi code dari terimnal ke perangkat tertaut di whatsapp, dan sesi akan tersimpan otomatis di folder `sesi/` agar tidak perlu login ulang.
+</details>
+
+<details>
 <summary>⚡ <b>Struktur Modular (ESM)</b></summary>
 
 Dibangun menggunakan **ECMAScript Module (import/export)** untuk kompatibilitas penuh dengan proyek Node.js modern.  
