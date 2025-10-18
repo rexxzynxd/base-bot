@@ -1,7 +1,7 @@
-───────────────────────────────────────────────╮
+────────────────────────────────╮
 │ 📁 WhatsApp Bot Base by RexxHayanasi          │
 │ 🧠 Script asli dikembangkan oleh Fauzialfatah │
-╰───────────────────────────────────────────────╯
+╰───────────────────────────────╯
 ---
 
 ## 📌 Deskripsi
@@ -16,7 +16,7 @@ Terima kasih telah menggunakan base bot ini 🙌
 
 Bot ini menggunakan **Baileys custom/mod** agar lebih stabil dan fleksibel, serta mendukung **struktur modular ESM (import/export)** pada proyek **Node.js**.  
 
-> ⚙️ **Minimal Node.js versi 24+ diperlukan** agar fitur **QR Code WhatsApp** dapat berfungsi dengan baik.
+> ⚙️ **Minimal Node.js versi 20+ diperlukan** agar fitur **QR Code WhatsApp** dapat berfungsi dengan baik.
 
 ---
 
