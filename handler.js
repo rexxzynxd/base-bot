@@ -24,7 +24,7 @@ export const setupMessageHandler = (sock, loadedPlugins, globalConfig, userLimit
                     continue;
                 }
                 
-                logHeader('FAUZIALIFATAH');
+                logHeader('REXXHAYANASI');
 
                 const senderJid = msg.key.remoteJid;
                 const senderLid = msg.key.chat?.lid; 
