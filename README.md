@@ -134,7 +134,7 @@ dan QR login berjalan lancar.
 ## 🔗 Saluran Resmi
 
 <details>
-<summary>📡 <b>Klik untuk Bergabung</b></summary>
+<summary>📡 <b>Bergabung!</b></summary>
 
 Bergabunglah dengan **saluran resmi WhatsApp bot ini**  
 untuk mendapatkan:
@@ -143,7 +143,7 @@ untuk mendapatkan:
 - 🛠️ Patch & perbaikan bug  
 - 💬 Diskusi Terkait dengan bot
 
-👉 [Klik di sini untuk bergabung](https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z)
+👉 [Klik di sini untuk bergabung](https://whatsapp.com/channel/0029VapYyKEGufIpsd3Rja2C)
 </details>
 
 
