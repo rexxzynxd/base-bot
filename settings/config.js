@@ -6,8 +6,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const globalConfig = {
-    owner: "6282132710183",
-    namaOwner: "fauziS",
+    owner: "6285282530851",
+    namaOwner: "RexxHayanasi",
     aiApiToken: "8be9e34764cd2fc4e6bcfb1bf6a945efe30406573a92d8ef0ec1613dc0e54876",
     prefix: "/",
     limit: {
