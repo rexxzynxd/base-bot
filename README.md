@@ -16,7 +16,7 @@
 │   ├── config.js
 │   └── colors.js
 ├── handler.js
-├── command/
+├── plugins/
 │   ├── flux.js
 │   ├── menu.js
 │   └── deepai.js
