@@ -27,7 +27,7 @@ console.log(`\n${colors.bright}${colors.cyan}===================================
 console.log(`${colors.bright}${colors.cyan}         BOT WHATSAPP DIMULAI        ${colors.reset}`);
 console.log(`${colors.bright}${colors.cyan}=====================================${colors.reset}\n`);
 
-const PLUGINS_DIR = path.resolve(__dirname, "./command");
+const PLUGINS_DIR = path.resolve(__dirname, "./plugins");
 
 const pluginsLoader = async (directory) => {
     let plugins = [];
