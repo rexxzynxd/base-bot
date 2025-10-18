@@ -1,6 +1,7 @@
-# 📁 WhatsApp Bot Base by RexxHayanasi  
-> 🧠 *Script asli dikembangkan oleh* **Fauzialfatah**
-
+───────────────────────────────────────────────╮
+│ 📁 WhatsApp Bot Base by RexxHayanasi          │
+│ 🧠 Script asli dikembangkan oleh Fauzialfatah │
+╰───────────────────────────────────────────────╯
 ---
 
 ## 📌 Deskripsi
