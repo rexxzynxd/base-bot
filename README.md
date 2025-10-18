@@ -96,30 +96,67 @@ Folder `sesi/` akan otomatis dibuat oleh **Baileys**, menyimpan data koneksi dan
 
 ---
 
-📦 Kebutuhan Sistem
+## 📦 Kebutuhan Sistem
 
-Node.js v24 atau lebih baru
+<details>
+<summary>🟢 <b>Node.js v20 atau lebih baru</b></summary>
 
-Baileys custom/mod
+Versi **Node.js 20+** diperlukan agar bot dapat menggunakan fitur  
+modern seperti **QR Code login**, **async/await penuh**, dan **ESM (import/export)**.  
+> 💡 Disarankan menggunakan versi LTS terbaru untuk stabilitas maksimal.
+</details>
 
-Koneksi internet stabil
+<details>
+<summary>🧩 <b>Baileys Custom / Mod</b></summary>
 
+Script ini memakai **Baileys @rexxhayanasi/elaina-bail** agar lebih stabil  
+dan kompatibel dengan update WhatsApp terbaru.  
+> ⚙️ Pastikan menggunakan versi **yang mendukung @lid & @jid**.
+</details>
+
+<details>
+<summary>🌐 <b>Koneksi Internet Stabil</b></summary>
+
+Bot memerlukan koneksi internet yang stabil agar proses sinkronisasi  
+dan QR login berjalan lancar.  
+> 📶 Disarankan menggunakan jaringan **Wi-Fi atau VPS** dengan uptime tinggi.
+</details>
+
+
+---
+## 🔗 Saluran Resmi
+
+<details>
+<summary>📡 <b>Klik untuk Bergabung</b></summary>
+
+Bergabunglah dengan **saluran resmi WhatsApp bot ini**  
+untuk mendapatkan:
+- 📢 Update terbaru script  
+- 🧩 Rilis fitur tambahan  
+- 🛠️ Patch & perbaikan bug  
+- 💬 Diskusi Terkait dengan bot
+
+👉 [Klik di sini untuk bergabung](https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z)
+</details>
 
 
 ---
 
-🔗 Saluran Resmi
+## 🧑‍💻 Developer
 
-📡 Klik untuk Bergabung
+<details>
+<summary>💻 <b>Lihat Informasi Developer</b></summary>
 
+**👤 Developer Utama:**  
+> 🧠 **RexxHayanasi**  
 
----
+**📜 Script Original:**  
+> ✍️ *Fauzialfatah*  
 
-🧑‍💻 Developer
-
-RexxHayanasi
-
-> Script original by Fauzialfatah
+Terima kasih untuk kontribusi dan pengembangan base bot ini 🙌  
+Jika kamu ingin mengembangkan lebih lanjut atau memberikan kredit,  
+harap tetap mencantumkan nama developer asli.
+</details>
 
 
 
@@ -129,17 +166,5 @@ RexxHayanasi
 ⭐ Dukung Proyek Ini
 
 Jika kamu merasa script ini bermanfaat,
-jangan lupa berikan ⭐ pada repository ini dan bergabung di saluran resmi kami!
-
-
+jangan lupa berikan ⭐ pada repository ini dan bergabung di saluran whatsapp!
 ---
-
----
-
-File ini sudah diformat mengikuti **gaya standar README GitHub**:
-- Menggunakan heading, icon emoji, dan blok kode berwarna.
-- Bersih dan konsisten (tanpa tampilan terminal penuh).
-- Sudah 100% siap ditempatkan di repositori GitHub.
-
-Apakah kamu mau saya tambahkan **badge GitHub** (misalnya: Node.js version, license, last commit) di bagian atas agar tampil seperti proyek open-source profesional?
-
